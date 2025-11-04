@@ -1,1 +1,1 @@
-<template>Hola!</template>
+<template>Hola! desde home</template>
