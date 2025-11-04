@@ -4,4 +4,15 @@ git status -> me dice el estado actual de mi repo
                 -> me dice en que rama estoy
                 -> me dice los archivos que faltan subir o que tienen cambios
 git add -> mueve mi archivo al working directory
+git commit -m "" -> le agrego un mensaje a mis cambios antes de subir
+git push -> subo mis commits al repo
 
+git config --global user.email   -> CONFIGURAMOS NUESTRO MAIL DE GIT
+git config --global user.name    -> CONFIGURAMOS EL NOMBRE DE USUARIO
+
+git remote add origin https://github.com/victor-villafane/clase-git.git
+    -> le dice a git donde debe subir los cambios
+
+git branch -M main -> DEFINIENDO MI RAMA PRINCIPAL COMO main
+
+git push -u origin main -> subimos los cambios por primera vez al repo
