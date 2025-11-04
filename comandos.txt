@@ -1,0 +1,7 @@
+git init -> inicializa mi repo
+git --version -> la version de git que tengo instalada
+git status -> me dice el estado actual de mi repo
+                -> me dice en que rama estoy
+                -> me dice los archivos que faltan subir o que tienen cambios
+git add -> mueve mi archivo al working directory
+
