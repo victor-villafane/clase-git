@@ -16,3 +16,9 @@ git remote add origin https://github.com/victor-villafane/clase-git.git
 git branch -M main -> DEFINIENDO MI RAMA PRINCIPAL COMO main
 
 git push -u origin main -> subimos los cambios por primera vez al repo
+
+git clone -> clona un repositorio
+
+git checkout -> cambiar entre diferentes ramas
+
+git checkout -b -> cambia de rama y si no existe la crea
